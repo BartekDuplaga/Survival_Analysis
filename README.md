@@ -47,8 +47,17 @@ jej obserwacja została ucięta
 
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non_parametric_age_horTh.png" alt="KM_estimates" width="600" height="600" />
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Tukey_adj_LogRank.png" alt="KM_estimates" width="300" height="200" />
+**PARAMETRIC MODELS** </br>
+5.1 **Funkcja hazardu wyestymowana z tablic trwania życia**
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Empirical_hazard_function.png" alt="KM_estimates" width="600" height="600" />
+</br>Niemonotoniczność empirycznej funkcji hazardu nakazuje odrzucenie parametrycznej analizy rozkładem wykładniczym
+lub Weibulla.
 
-
+5.2 **Wygładzona jądrowo funkcja hazardu** </br>
+* Za szerokość pasma przyjęto 570 dni – co oznacza, że obserwacje o takiej rozpiętości przyjęto do obliczania hazardów w
+danych momentach czasowych w celu wygładzenia funkcji hazardu. Pasmo nie zostało ręcznie sprecyzowane lecz zostało
+zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedziały ufności.
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Epanechnikov_smoothing.png" alt="KM_estimates" width="600" height="600" />
 
 
 
