@@ -5,7 +5,7 @@ Analiza przeżycia pacjentek poddanych terapii hormonalnej w trakcie leczenia on
 Zbiór danych GBSG2 pochodzi z badania Sauerbrei, W., and P. Royston 1999. Zbiór składa się z grupy obserwacji 686 pacjentek, które zostały poddane leczeniu nowotworu piersi.
 
 Zmienne ujęte zbiorze:
-  * time – zmienna określająca dzień od rozpoczęcia obserwacji w którym pacjentka umarła lub
+  &nbsp;* time – zmienna określająca dzień od rozpoczęcia obserwacji w którym pacjentka umarła lub
 jej obserwacja została ucięta
   * cens – zmienna binarna określająca to czy obserwacja została ocenzurowana czy nie – {0,1)
   * age – zmienna ciągła, wiek pacjentki w latach
