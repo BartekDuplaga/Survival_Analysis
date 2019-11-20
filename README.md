@@ -64,5 +64,5 @@ zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedzia
 
 5.3 **Ocena graficzna dopasowania modeli:**
 <br></br>Wstępnie najlepiej dopasowany zdaje się być model oparty o rozkład Gamma, następnie model log-normalny a na końcu log-logistyczny.
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Parametric_models.png" alt="KM_estimates" width="1200" height="400" />
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Parametric_models.png" alt="KM_estimates" width="1200" height="200" />
 
