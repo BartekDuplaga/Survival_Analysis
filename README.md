@@ -48,6 +48,8 @@ jej obserwacja została ucięta
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non_parametric_age_horTh.png" alt="KM_estimates" width="400" height="400" />
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Tukey_adj_LogRank.png" alt="KM_estimates" width="400" height="200" />
 
+<br>**MODELE NIEPARAMETRYCZNE**</br>
+
 5.1 **Funkcja hazardu wyestymowana z tablic trwania życia:**</br>
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Empirical_hazard_function.png" alt="KM_estimates" width="400" height="300" />
 </br>Niemonotoniczność empirycznej funkcji hazardu nakazuje odrzucenie parametrycznej analizy rozkładem wykładniczym
