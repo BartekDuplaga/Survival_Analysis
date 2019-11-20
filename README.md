@@ -68,7 +68,7 @@ zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedzia
 
 5.4 **Wybór właściwego modelu:**
 <br></br> W celu wyboru właściwego modelu należy policzyć statystykę -2(LLgamma – Lllog_norm) a następnie przyrównać do wartości krytycznej obszaru wyznaczonego przez rozkład chi-kwadrat o jednym stopniu swobody dla poziomu istotności 0.05 czyli 3.84.
-<br></br>-2(LLgamma – Lllog_norm) = 16.62
+<br></br>-2(LLgamma – LLlog_norm) = 16.62
 <br></br>16.62 > 3.84
 <br></br>Wniosek: odrzucamy H0 mówiącą o tym, że ograniczenie na parametrach jest prawdziwe.Przyjmujemy zatem model Gamma, który jest istotnie lepiej dopasowany.
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Log_normal_VS_Gamma.png" alt="KM_estimates" width="300" height="600" />
+<br></br><img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Log_normal_VS_Gamma.png" alt="KM_estimates" width="200" height="300" />
