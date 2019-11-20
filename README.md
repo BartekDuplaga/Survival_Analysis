@@ -32,3 +32,16 @@ jej obserwacja została ucięta
 * Pacjentki poddane terapii hormonalnej (horTh=1) miały statystycznie dłuższy czas dożycia okresie obserwacji.
 * Przy poziomie istotności 0.05 dla każdego z wykonanych testów (log-rang i Wilcoxona) należy odrzucić hipotezę zerową od braku różnic w grupach.
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non-parametric%20horTh.png" alt="KM_estimates" width="600" height="600" />
+
+4.3 **Analiza czasu przeżycia pacjentek w podziale na grupy wiekowe:**
+</br>
+Analiza czasu przeżycia pacjentek ze względy przynależności do grupy wiekowej:
+* Zmienna ciągła age została zdychotomizowana wzdłuż mediany wynoszącej 53. Empiryczny rozkład tej zmiennej przypominający rozkład dwumianowy uzasadnia taki wybór. Pacjentki poniżej 53 roku życia zostały przydzielonej do młodszej grupy wiekowej – 1, pacjentki powyżej 53 roku życia do starszej grupy wiekowej - 2.
+* Estymacja nieparametryczna funkcji dożycia w grupach metodą K-M wykazała brak istotności różnic w przeżywalności wyszczególnionych grup dla przyjętego poziomu istotności 0.05.
+
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non_parametric_age.png" alt="KM_estimates" width="600" height="600" />
+
+
+
+
+
