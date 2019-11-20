@@ -74,9 +74,9 @@ zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedzia
 <br></br><img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Log_normal_VS_Gamma.png" alt="KM_estimates" width="200" height="300" />
 
 
-5.5 **Analiza estymacji modelem Gamma:**<br></br>
+5.5 **Analiza estymacji modelem Gamma:**
 * Zmienna age okazała się nieistotna statystycznie w przeciwieństwie do zmiennej horTh.
 * Dodatnie oszacowanie parametru zmiennej horTh wskazuje, że pacjentki poddane terapii hormonalnej mają 30% większy oczekiwany czas przeżycia od pacjentek niepoddanych terapii.
 * Parametr skali większy od jeden potwierdza, że mamy do czynienia z malejącą funkcją hazardu.
 * Parametr kształtu jest różny od 0 i od 1 – wniosek zatem jest taki, że nie mamy do czynienia ani z rozkładem log-normalnym ani Weibulla.
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Gamma_model.png" alt="KM_estimates" width="400" height="200" />
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Gamma_model.png" alt="KM_estimates" width="400" height="150" />
