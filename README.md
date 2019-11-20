@@ -107,17 +107,11 @@ roku) od upłynięcia terapii:
 <br></br>
 Weryfikacja postawionych hipotez:
 <br></br>
-**Hipoteza 1 (obalona):** Im wyższy wiek pacjentki tym krótszy czas przeżycia podczas terapii nowotworowej 
-* Zarówno analiza nieparametryczna (test log-rang oraz test Wilcoxona) jak i parametryczna oparta
-na dwóch grupach wiekowych (starszej i młodszej) wykazały brak istotnych różnic w czasie
-dożycia w grupach wyszczególnionych ze względu na wiek. Analiza semiparametryczna wskazała
-istotność zmiennej wiek tylko w połączeniu z czasem (pacjentki leczone ponad 1 rok są istotnie
-bardziej narażone na zdarzenie).
+**Hipoteza 1 (obalona):** Im wyższy wiek pacjentki tym krótszy czas przeżycia podczas terapii nowotworowej <br></br>
+* Zarówno analiza nieparametryczna (test log-rang oraz test Wilcoxona) jak i parametryczna oparta na dwóch grupach wiekowych (starszej i młodszej) wykazały brak istotnych różnic w czasie dożycia w grupach wyszczególnionych ze względu na wiek. Analiza semiparametryczna wskazała istotność zmiennej wiek tylko w połączeniu z czasem (pacjentki leczone ponad 1 rok są istotnie  bardziej narażone na zdarzenie).
 <br></br>
-**Hipoteza 2 (potwierdzona):** Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu 
-* Analiza nieparametryczna i parametryczna potwierdziły, że terapia hormonalna jest skutecznym
-narzędziem wydłużającym czas życia pacjentek niezależnie od przynależności do grup wiekowych.
-* Model Gamma wykazał, że pacjentki poddane tej terapii mają czas przeżycia o ok. 30% dłuższy od
-pacjentek, które nie są poddane terapii hormonalnej.
+**Hipoteza 2 (potwierdzona):** Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu <br></br>
+* Analiza nieparametryczna i parametryczna potwierdziły, że terapia hormonalna jest skutecznym narzędziem wydłużającym czas życia pacjentek niezależnie od przynależności do grup wiekowych.
+* Model Gamma wykazał, że pacjentki poddane tej terapii mają czas przeżycia o ok. 30% dłuższy od pacjentek, które nie są poddane terapii hormonalnej.
 
 
