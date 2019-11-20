@@ -1,7 +1,7 @@
 # Survival_Analysis (Breast Cancer, GBSG2 Study)
 Analiza przeżycia pacjentek poddanych terapii hormonalnej w trakcie leczenia onkologicznego.
 
-1. *Dane* :
+1. **Dane** :
 Zbiór danych GBSG2 pochodzi z badania Sauerbrei, W., and P. Royston 1999. Zbiór składa się z grupy obserwacji 686 pacjentek, które zostały poddane leczeniu nowotworu piersi.
 
 Zmienne ujęte zbiorze:
@@ -17,7 +17,7 @@ jej obserwacja została ucięta
 * estrec – ilość receptorów estrogenowych w [fmol]
 * horTh – zmienna binarna oznaczająca bycie poddanym terapii hormonalnej
 
-2. *Cel badawczy* – ocena wpływu czynników na przeżywalność pacjentek poddanych terapii leczenia nowotworu piersi.
-3. *Hipotezy badawcze*:
+2. **Cel badawczy** – ocena wpływu czynników na przeżywalność pacjentek poddanych terapii leczenia nowotworu piersi.
+3. **Hipotezy badawcze**:
 * Im wyższy wiek pacjentki tym krótszy czas przeżycia podczas terapii nowotworowej.
 * Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu.
