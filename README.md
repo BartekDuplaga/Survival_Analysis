@@ -1,7 +1,7 @@
 # Survival_Analysis (Breast Cancer, GBSG2 Study)
 Analiza przeżycia pacjentek poddanych terapii hormonalnej w trakcie leczenia onkologicznego.
 
-1. **Dane** :
+1. **Dane** :</br>
 Zbiór danych GBSG2 pochodzi z badania Sauerbrei, W., and P. Royston 1999. Zbiór składa się z grupy obserwacji 686 pacjentek, które zostały poddane leczeniu nowotworu piersi.
 
 Zmienne ujęte zbiorze:
