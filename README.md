@@ -22,7 +22,8 @@ jej obserwacja została ucięta
   * Im wyższy wiek pacjentki tym krótszy czas przeżycia podczas terapii nowotworowej.
   * Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu.
 
-4.1. **Analiza nieparametryczna - estymacja metodą Kaplana-Meiera:** </br>
+<br>**MODELE NIEPARAMETRYCZNE**</br>
+4.1. **Estymacja metodą Kaplana-Meiera:** </br>
 * Mediana funkcji przeżycia wskazuje, że połowa pacjentów przeżyła do minimum do **1806** dnia badania.
 * Prawdopodobieństwo przeżycia do końca obserwacji (t=2700)wyniosło na tym zbiorze **0.34**.
 
@@ -48,7 +49,7 @@ jej obserwacja została ucięta
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non_parametric_age_horTh.png" alt="KM_estimates" width="400" height="400" />
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Tukey_adj_LogRank.png" alt="KM_estimates" width="400" height="200" />
 
-<br>**MODELE NIEPARAMETRYCZNE**</br>
+<br>**MODELE PARAMETRYCZNE**</br>
 
 5.1 **Funkcja hazardu wyestymowana z tablic trwania życia:**</br>
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Empirical_hazard_function.png" alt="KM_estimates" width="400" height="300" />
@@ -61,6 +62,7 @@ danych momentach czasowych w celu wygładzenia funkcji hazardu. Pasmo nie zosta�
 zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedziały ufności.
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Epanechnikov_smoothing.png" alt="KM_estimates" width="400" height="400" />
 
-
-
+5.3 **Ocena graficzna dopasowania modeli:**
+<br></br>Wstępnie najlepiej dopasowany zdaje się być model oparty o rozkład Gamma, następnie model log-normalny a na końcu log-logistyczny.
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Parametric_models.png" alt="KM_estimates" width="1200" height="400" />
 
