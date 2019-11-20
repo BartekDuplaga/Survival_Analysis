@@ -85,11 +85,12 @@ zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedzia
 **MODELE SEMIPARAMETRYCZNE**
 <br></br>
 Test globalny na istotność zmiennych.
+<br></br>
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Test_istotnos%CC%81c%CC%81_zmiennych.png" alt="KM_estimates" width="250" height="100" />
 Wszystkie testy sugerują odrzucenie hipotezy zerowej o nieistotności globalnej zmiennych age oraz horTh a zatem przynajmniej jedna z nich jest istotna.
 <br></br>
 Interpretacja: bycie poddanym terapii hormonalnej zmniejsza hazard o 34%. Wzrost wieku pacjentki o 1 rok powoduje wzrost hazardu podczas leczenia nowotworu piersi o 29%.
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Analiza_maksymalnej_wiaryg.png" alt="KM_estimates" width="500" height="150" />
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Analiza_maksymalnej_wiaryg.png" alt="KM_estimates" width="500" height="120" />
 
 6.1 **Włączenie zmiennych zależnych od czasu:**<br></br>
 Globalny test Walda nakazuje odrzucić hipotezę o zbiorowej nieistotnościoszacowań parametrów. Włączenie interakcji z czasem powodujeindywidualną nieistotność oszacowań zmiennych age i horTh.
