@@ -21,3 +21,8 @@ jej obserwacja została ucięta
 3. **Hipotezy badawcze**:
 * Im wyższy wiek pacjentki tym krótszy czas przeżycia podczas terapii nowotworowej.
 * Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu.
+
+4. **Analiza nieparametryczna - estymacja metodą Kaplana-Meiera:**
+Mediana funkcji przeżycia wskazuje, że połowa pacjentów przeżyła do minimum do **1806** dnia badania.
+Prawdopodobieństwo przeżycia do końca obserwacji (t=2700)wyniosło na tym zbiorze **0.34**.
+
