@@ -22,12 +22,12 @@ jej obserwacja została ucięta
   * Im wyższy wiek pacjentki tym krótszy czas przeżycia podczas terapii nowotworowej.
   * Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu.
 
-4. **Analiza nieparametryczna - estymacja metodą Kaplana-Meiera:** </br>
+4.1. **Analiza nieparametryczna - estymacja metodą Kaplana-Meiera:** </br>
 * Mediana funkcji przeżycia wskazuje, że połowa pacjentów przeżyła do minimum do **1806** dnia badania.
 * Prawdopodobieństwo przeżycia do końca obserwacji (t=2700)wyniosło na tym zbiorze **0.34**.
 
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/Kaplan_Meier_Estimates.png" alt="KM_estimates" width="600" height="600" />
 
-**Analiza czasu przeżycia pacjentek poddanych i niepoddanych terapii hormonalnej:**
+4.2. **Analiza czasu przeżycia pacjentek poddanych i niepoddanych terapii hormonalnej:**
 * Pacjentki poddane terapii hormonalnej (horTh=1) miały statystycznie dłuższy czas dożycia okresie obserwacji.
-- Przy poziomie istotności 0.05 dla każdego z wykonanych testów (log-rang i Wilcoxona) należy odrzucić hipotezę zerową od braku różnic w grupach.
+* Przy poziomie istotności 0.05 dla każdego z wykonanych testów (log-rang i Wilcoxona) należy odrzucić hipotezę zerową od braku różnic w grupach.
