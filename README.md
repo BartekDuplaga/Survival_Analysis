@@ -35,11 +35,19 @@ jej obserwacja została ucięta
 
 4.3 **Analiza czasu przeżycia pacjentek w podziale na grupy wiekowe:**
 </br>
-Analiza czasu przeżycia pacjentek ze względy przynależności do grupy wiekowej:
 * Zmienna ciągła age została zdychotomizowana wzdłuż mediany wynoszącej 53. Empiryczny rozkład tej zmiennej przypominający rozkład dwumianowy uzasadnia taki wybór. Pacjentki poniżej 53 roku życia zostały przydzielonej do młodszej grupy wiekowej – 1, pacjentki powyżej 53 roku życia do starszej grupy wiekowej - 2.
 * Estymacja nieparametryczna funkcji dożycia w grupach metodą K-M wykazała brak istotności różnic w przeżywalności wyszczególnionych grup dla przyjętego poziomu istotności 0.05.
 
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non_parametric_age.png" alt="KM_estimates" width="600" height="600" />
+
+4.4 **Analiza czasu przeżycia pacjentek w jednoczesnym podziale na grupy wiekowe oraz udział w terapii hormonalnej:**
+Wszystkie statystyki testowe nakazują odrzucenie hipotezy zerowej mówiącej o braku różnic w funkcji dożycia pomiędzy 4 rozróżnionymi grupami dla przyjętego poziomu istotności 0.05.
+</br>Najbardziej narażoną grupą pacjentek są pacjentki starsze
+niepoddane terapii hormonalnej a najmniej pacjentki młodsze
+poddane terapii hormonalnej.
+
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non_parametric_age_horTh.png" alt="KM_estimates" width="600" height="600" />
+
 
 
 
