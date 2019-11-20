@@ -46,7 +46,7 @@ jej obserwacja została ucięta
 </br> Po przeliczeniu różnic w grupach z uwzględnieniem poprawki Tukeya dla testu Wilcoxona, brak podstaw do odrzucenia hipotezy zerowej o różnicach pomiędzy grupami 1 i 4, 2 i 3 oraz 3 i 4 – co potwierdza zasadność rozróżnienia pomiędzy grupą najbardziej i najmniej narażoną na ryzyko czyli grupą starszych kobiet niepoddanych terapii hormonalnej a grupą młodszych kobiet poddanych tej terapii (grupy 2 i 3).
 
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Non_parametric_age_horTh.png" alt="KM_estimates" width="600" height="600" />
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Tukey_adj_LogRank.png" alt="KM_estimates" width="400" height="400" />
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Tukey_adj_LogRank.png" alt="KM_estimates" width="250" height="200" />
 
 
 
