@@ -101,21 +101,22 @@ roku) od upłynięcia terapii:
 −0.198 + 0.000579 ∗ 365 = 0.013
 <br></br>Oznacza, że rosnący wiek pacjentki wystawia ją na większe ryzyko po 1 roku od rozpoczęcia terapii.
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Semiparam_analysis.png" alt="KM_estimates" width="400" height="200" />
+
 <br></br>
 **PODSUMOWANIE**
 <br></br>
 Weryfikacja postawionych hipotez:
 <br></br>
 <span style="color:green">some Im wyższy wiek pacjentki tym krótszy czas przeżycia podczas terapii nowotworowej text</span>
-• Zarówno analiza nieparametryczna (test log-rang oraz test Wilcoxona) jak i parametryczna oparta
+* Zarówno analiza nieparametryczna (test log-rang oraz test Wilcoxona) jak i parametryczna oparta
 na dwóch grupach wiekowych (starszej i młodszej) wykazały brak istotnych różnic w czasie
 dożycia w grupach wyszczególnionych ze względu na wiek. Analiza semiparametryczna wskazała
 istotność zmiennej wiek tylko w połączeniu z czasem (pacjentki leczone ponad 1 rok są istotnie
 bardziej narażone na zdarzenie).
-<span style="color:red">some Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu</span>
-• Analiza nieparametryczna i parametryczna potwierdziły, że terapia hormonalna jest skutecznym
+<span style="color:red">some Terapia hormonalna wydłuża czas przeżycia podczas leczenia nowotworu text </span>
+* Analiza nieparametryczna i parametryczna potwierdziły, że terapia hormonalna jest skutecznym
 narzędziem wydłużającym czas życia pacjentek niezależnie od przynależności do grup wiekowych.
-• Model Gamma wykazał, że pacjentki poddane tej terapii mają czas przeżycia o ok. 30% dłuższy od
+* Model Gamma wykazał, że pacjentki poddane tej terapii mają czas przeżycia o ok. 30% dłuższy od
 pacjentek, które nie są poddane terapii hormonalnej.
 
 
