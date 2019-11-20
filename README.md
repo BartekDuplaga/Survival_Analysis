@@ -26,4 +26,4 @@ jej obserwacja została ucięta
 Mediana funkcji przeżycia wskazuje, że połowa pacjentów przeżyła do minimum do **1806** dnia badania.
 Prawdopodobieństwo przeżycia do końca obserwacji (t=2700)wyniosło na tym zbiorze **0.34**.
 
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/Kaplan-Meier-Estimates.png" alt="KM_estimates" width="150" height="100" />
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/Kaplan-Meier-Estimates.png" alt="KM_estimates" width="800" height="600" />
