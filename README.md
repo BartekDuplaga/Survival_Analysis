@@ -80,12 +80,25 @@ zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedzia
 * Parametr skali większy od jeden potwierdza, że mamy do czynienia z malejącą funkcją hazardu.
 * Parametr kształtu jest różny od 0 i od 1 – wniosek zatem jest taki, że nie mamy do czynienia ani z rozkładem log-normalnym ani Weibulla.
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Gamma_model.png" alt="KM_estimates" width="400" height="150" />
+
+<br></br>
+**MODELE SEMIPARAMETRYCZNE**
+<br></br>
 Test globalny na istotność zmiennych.
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Test_istotnos%CC%81c%CC%81_zmiennych.png" alt="KM_estimates" width="250" height="100" />
 Wszystkie testy sugerują odrzucenie hipotezy zerowej o nieistotności globalnej zmiennych age oraz horTh a zatem przynajmniej jedna z nich jest istotna.
 <br></br>
-*Interpretacja*: bycie poddanym terapii hormonalnej zmniejsza hazard o 34%. Wzrost wieku pacjentki o 1 rok powoduje wzrost hazardu podczas leczenia nowotworu piersi o 29%.
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Analiza_maksymalnej_wiaryg.png" alt="KM_estimates" width="450" height="150" />
+Interpretacja: bycie poddanym terapii hormonalnej zmniejsza hazard o 34%. Wzrost wieku pacjentki o 1 rok powoduje wzrost hazardu podczas leczenia nowotworu piersi o 29%.
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Analiza_maksymalnej_wiaryg.png" alt="KM_estimates" width="500" height="150" />
+
+6.1 **Włączenie zmiennych zależnych od czasu:**<br></br>
+Globalny test Walda nakazuje odrzucić hipotezę o zbiorowej nieistotnościoszacowań parametrów. Włączenie interakcji z czasem powodujeindywidualną nieistotność oszacowań zmiennych age i horTh.
+* Efekt zmiennej agetime po 365 dniach (1
+roku) od upłynięcia terapii:
+<br></br>
+−0.198 + 0.000579 ∗ 365 = 0.013
+<br></br>Oznacza, że rosnący wiek pacjentki wystawia ją na większe ryzyko po 1 roku od rozpoczęciaterapii.
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Semiparam_analysis.png" alt="KM_estimates" width="400" height="200" />
 
 
 
