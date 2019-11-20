@@ -82,9 +82,9 @@ zaproponowane przez optymalizator wygładzania. Na wykres naniesiono 95%przedzia
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Gamma_model.png" alt="KM_estimates" width="400" height="150" />
 Test globalny na istotność zmiennych.
 <img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Test_istotnos%CC%81c%CC%81_zmiennych.png" alt="KM_estimates" width="250" height="100" />
-<br>Wszystkie testy sugerują odrzucenie hipotezy zerowej o nieistotności globalnej zmiennych age oraz horTh a zatem przynajmniej jedna z nich jest istotna.</br>
-<br>Interpretacja: _bycie poddanym terapii hormonalnej zmniejsza hazard o 34%. Wzrost wieku pacjentki o 1 rok powoduje wzrost hazardu podczas leczenia nowotworu piersi o 29%._</br>
-<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Analiza_maksymalnej_wiaryg.png" alt="KM_estimates" width="600" height="200" />
+Wszystkie testy sugerują odrzucenie hipotezy zerowej o nieistotności globalnej zmiennych age oraz horTh a zatem przynajmniej jedna z nich jest istotna.
+<br>*Interpretacja*: bycie poddanym terapii hormonalnej zmniejsza hazard o 34%. Wzrost wieku pacjentki o 1 rok powoduje wzrost hazardu podczas leczenia nowotworu piersi o 29%.</br>
+<img src="https://github.com/BartekDuplaga/Survival_Analysis/blob/master/images/Analiza_maksymalnej_wiaryg.png" alt="KM_estimates" width="300" height="100" />
 
 
 
